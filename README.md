@@ -43,6 +43,7 @@ src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for
  <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle.png" width="36" height="36" alt="bitbucket" /></a>
  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/9f105d17211202e728af348707328453142d60e9d22d96e40fd9c8f1923142e6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6972612d312e737667" width="36" height="36" alt="Jira" /></a>
  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33634168/89199023-49f46280-d5ae-11ea-8f21-34d69074b8f9.png" width="36" height="36" alt="Scrum" /></a>
+ <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/5418178/162419165-9570bbeb-c703-4455-af28-f63a8c6dd019.png" width="36" height="36" alt="Grafana" /></a>
 
 
 ### Socials

@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning more about spring boot
 - 💬 Ask me about anything
-- 📫 How to reach me: [linkedin]
+- 📫 How to reach me: [&nbsp;&nbsp;<img align="center" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <img align="left" alt="GIF" src="https://github.com/HamzaELKhatib/HamzaELKhatib/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-[<img align="left" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

@@ -15,6 +15,8 @@
 <br />
 <summary>:zap: Languages</summary>
 
+<br />
+
 [<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
 [<img align="left" alt="SPRING" width="26px" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" />][linkedin]
 [<img align="left" alt="SPRINGBOOT" width="43px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />][linkedin]
@@ -31,6 +33,8 @@
 <br />
 <br />
 <summary>:zap: Tools & Methods</summary>
+
+<br />
 
 [<img align="left" alt="INTELLIJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
@@ -49,6 +53,8 @@
  
 
   <summary>:zap: GitHub Stats</summary>
+
+<br />
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HamzaELKhatib&show_icons=true&hide_border=true" />
 

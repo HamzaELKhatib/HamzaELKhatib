@@ -1,62 +1,64 @@
-### Hi there 👋
+JAVA | Spring Boot Developer
+---------------------------
 
+I've been learning to code for 5 years. I started with PASCAL and HTML, but have really found a passion for backend development, specifically Java and Spring Boot.
 
+* 🌍  I'm based in Morocco
+* ✉️  You can contact me at [hamza.elkhatib@protonmail.com](mailto:hamza.elkhatib@protonmail.com)
+* 🧠  I'm learning more about spring boot.
+* ⚡  I speak Moroccan, Arabic, English, and French.
 
-- 🌱 I’m currently learning more about spring boot
-- 💬 Ask me about anything
-- 📫 How to reach me: [&nbsp;&nbsp;<img align="center" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+<a href="https://www.github.com/HamzaELKhatib" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
 <img align="left" alt="GIF" src="https://github.com/HamzaELKhatib/HamzaELKhatib/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 [<img align="right" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br />
-<summary>:zap: Languages</summary>
-
-<br />
-
-[<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
-[<img align="left" alt="SPRING" width="26px" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" />][linkedin]
-[<img align="left" alt="SPRINGBOOT" width="43px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />][linkedin]
-[<img align="left" alt="GRAPHQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][linkedin]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][linkedin]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="MYSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="MONGODB" width="26px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png" />][linkedin]
-[<img align="left" alt="H2" width="26px" src="https://h2database.com/html/images/h2-logo-2.png" />][linkedin]
-
-
-<br />
-<br />
-<summary>:zap: Tools & Methods</summary>
-
-<br />
-
-[<img align="left" alt="INTELLIJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />][linkedin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="BITBUCKET" width="26px" src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle.png" />][linkedin]
-[<img align="left" alt="JIRA" width="26px" src="https://camo.githubusercontent.com/9f105d17211202e728af348707328453142d60e9d22d96e40fd9c8f1923142e6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6972612d312e737667" />][linkedin]
-[<img align="left" alt="SCRUM" width="26px" src="https://user-images.githubusercontent.com/33634168/89199023-49f46280-d5ae-11ea-8f21-34d69074b8f9.png" />][linkedin]
 
 
 
-<br />
-<br />
+
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" width="36" height="36" alt="Spring" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="70" height="36" alt="SpringBoot" /></a>
+<a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer"><img src="https://h2database.com/html/images/h2-logo-2.png" width="40" height="36" alt="H2" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="36" height="36" alt="Intellij" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="36" height="36" alt="VSCode" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="git" /></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="github" /></a>
+ <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/475/330/png-clipart-bitbucket-computer-software-github-bitbucket-server-blue-angle.png" width="36" height="36" alt="bitbucket" /></a>
+ <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/9f105d17211202e728af348707328453142d60e9d22d96e40fd9c8f1923142e6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6972612d312e737667" width="36" height="36" alt="Jira" /></a>
+ <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33634168/89199023-49f46280-d5ae-11ea-8f21-34d69074b8f9.png" width="36" height="36" alt="Scrum" /></a>
 
 
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/hamza-el-khatib-826947171" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
 
-  <summary>:zap: GitHub Stats</summary>
+### Badges
 
-<br />
+<b>My GitHub Stats</b>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HamzaELKhatib&show_icons=true&hide_border=true" />
+<a href="http://www.github.com/HamzaELKhatib"><img src="https://github-readme-stats.vercel.app/api?username=HamzaELKhatib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="HamzaELKhatib's GitHub stats" /></a>
+
+<a href="http://www.github.com/HamzaELKhatib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaELKhatib&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/HamzaELKhatib"><img src="https://activity-graph.herokuapp.com/graph?username=HamzaELKhatib&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 

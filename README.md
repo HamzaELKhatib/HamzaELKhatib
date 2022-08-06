@@ -3,10 +3,10 @@ JAVA | Spring Boot Developer
 
 I've been learning to code for 5 years. I started with PASCAL and HTML, but have really found a passion for backend development, specifically Java and Spring Boot.
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [hamza.elkhatib@protonmail.com](mailto:hamza.elkhatib@protonmail.com)
 * 🧠  I'm learning more about spring boot.
-* ⚡  I speak Moroccan, English, Arabic, and French.
+* ⚡  I speak English, Arabic, and French.
+* ✉️  You can contact me at [hamza.elkhatib@protonmail.com](mailto:hamza.elkhatib@protonmail.com)
+
 
 <a href="https://www.github.com/HamzaELKhatib" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>

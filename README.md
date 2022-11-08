@@ -64,9 +64,5 @@ src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaELKhatib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
-
-
-[linkedin]: https://www.linkedin.com/in/hamza-el-khatib-826947171/

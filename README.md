@@ -5,7 +5,7 @@ I've been learning to code for 5 years. I started with PASCAL and HTML, but have
 
 * 🧠  I'm learning more about spring boot.
 * ⚡  I speak English, Arabic, and French.
-* ✉️  You can contact me at [hamza.elkhatib@hamzakh.com](mailto:hamza.elkhatib@hamzakh.com)
+* ✉️  You can contact me at [contact@hamzakh.com](mailto:contact@hamzakh.com)
 
 
 <a href="https://www.github.com/HamzaELKhatib" target="_blank" rel="noreferrer"><img

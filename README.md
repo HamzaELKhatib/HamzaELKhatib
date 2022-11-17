@@ -1,7 +1,7 @@
 JAVA | Spring Boot Developer
 ---------------------------
 
-I've been learning to code for 5 years. I started with PASCAL and HTML, but have really found a passion for backend development, specifically Java and Spring Boot.
+I've been coding for more than 7 years. I started with PASCAL and HTML, but have really found a passion for backend development, specifically Java and Spring Boot.
 
 * 🧠  I'm learning more about spring boot.
 * ⚡  I speak English, Arabic, and French.

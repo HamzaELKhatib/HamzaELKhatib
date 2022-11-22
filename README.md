@@ -13,7 +13,6 @@ src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for
 
 <img align="left" alt="GIF" src="https://github.com/HamzaELKhatib/HamzaELKhatib/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-<img align="right" alt="Hamza EL KHATIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

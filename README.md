@@ -50,14 +50,6 @@ src="https://img.shields.io/github/followers/HamzaELKhatib?logo=github&style=for
 <p align="left"> <a href="https://www.linkedin.com/in/hamza-el-khatib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
 
-### Badges
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/HamzaELKhatib"><img src="https://github-readme-stats.vercel.app/api?username=HamzaELKhatib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="HamzaELKhatib's GitHub stats" /></a>
-
-<a href="http://www.github.com/HamzaELKhatib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaELKhatib&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
